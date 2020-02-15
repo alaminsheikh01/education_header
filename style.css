@@ -1,0 +1,32 @@
+/*font-family: 'Lato', sans-serif;*/
+/*font-family: 'Dosis', sans-serif;*/
+/*font-family: 'Sniglet', cursive;*/
+
+body{
+	font-family: 'Dosis', sans-serif;
+}
+/*Header start*/
+header{
+	background-color: #ffd338;
+}
+.menu ul li a{
+	font-weight: 700;
+	font-size: 18px;
+	color: white !important;
+	padding: 0 15px !important;
+	border-radius: 15px;
+	transition: 0.3s;
+}
+.menu ul li a:hover {
+	background-color: #f05c5c;
+}
+.btn-user, .btn-search{
+	color: white;
+	margin-right: 5px;
+}
+.d-search{
+	top: 70px;
+	left: -250px;
+	min-width: 300px;
+}
+/*Header end*/
